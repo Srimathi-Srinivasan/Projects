@@ -1,0 +1,52 @@
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\bin\Debug\net6.0\ElectronicsShoppingApp.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\bin\Debug\net6.0\ElectronicsShoppingApp.exe
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\bin\Debug\net6.0\ElectronicsShoppingApp.deps.json
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\bin\Debug\net6.0\ElectronicsShoppingApp.runtimeconfig.json
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\bin\Debug\net6.0\ElectronicsShoppingApp.dll
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\bin\Debug\net6.0\ElectronicsShoppingApp.pdb
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\obj\Debug\net6.0\scopedcss\bundle\ElectronicsShoppingApp.styles.css
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\obj\Debug\net6.0\scopedcss\projectbundle\ElectronicsShoppingApp.bundle.scp.css
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.dll
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\obj\Debug\net6.0\refint\ElectronicsShoppingApp.dll
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.pdb
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# training\ElectronicsShoppingApp\obj\Debug\net6.0\ref\ElectronicsShoppingApp.dll
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\bin\Debug\net6.0\ElectronicsShoppingApp.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\bin\Debug\net6.0\ElectronicsShoppingApp.exe
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\bin\Debug\net6.0\ElectronicsShoppingApp.deps.json
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\bin\Debug\net6.0\ElectronicsShoppingApp.runtimeconfig.json
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\bin\Debug\net6.0\ElectronicsShoppingApp.dll
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\bin\Debug\net6.0\ElectronicsShoppingApp.pdb
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\obj\Debug\net6.0\scopedcss\bundle\ElectronicsShoppingApp.styles.css
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\obj\Debug\net6.0\scopedcss\projectbundle\ElectronicsShoppingApp.bundle.scp.css
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.dll
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\obj\Debug\net6.0\refint\ElectronicsShoppingApp.dll
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.pdb
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\obj\Debug\net6.0\ElectronicsShoppingApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ES\ElectronicsShoppingApp\obj\Debug\net6.0\ref\ElectronicsShoppingApp.dll

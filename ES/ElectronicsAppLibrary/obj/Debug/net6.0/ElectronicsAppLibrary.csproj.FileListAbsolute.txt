@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\C# training\ElectronicsAppLibrary\bin\Debug\net6.0\ElectronicsAppLibrary.deps.json
+C:\Users\Admin\Desktop\C# training\ElectronicsAppLibrary\bin\Debug\net6.0\ElectronicsAppLibrary.runtimeconfig.json
+C:\Users\Admin\Desktop\C# training\ElectronicsAppLibrary\bin\Debug\net6.0\ElectronicsAppLibrary.dll
+C:\Users\Admin\Desktop\C# training\ElectronicsAppLibrary\bin\Debug\net6.0\ElectronicsAppLibrary.pdb
+C:\Users\Admin\Desktop\C# training\ElectronicsAppLibrary\obj\Debug\net6.0\ElectronicsAppLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C# training\ElectronicsAppLibrary\obj\Debug\net6.0\ElectronicsAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# training\ElectronicsAppLibrary\obj\Debug\net6.0\ElectronicsAppLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# training\ElectronicsAppLibrary\obj\Debug\net6.0\ElectronicsAppLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# training\ElectronicsAppLibrary\obj\Debug\net6.0\ElectronicsAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# training\ElectronicsAppLibrary\obj\Debug\net6.0\ElectronicsAppLibrary.dll
+C:\Users\Admin\Desktop\C# training\ElectronicsAppLibrary\obj\Debug\net6.0\refint\ElectronicsAppLibrary.dll
+C:\Users\Admin\Desktop\C# training\ElectronicsAppLibrary\obj\Debug\net6.0\ElectronicsAppLibrary.pdb
+C:\Users\Admin\Desktop\C# training\ElectronicsAppLibrary\obj\Debug\net6.0\ElectronicsAppLibrary.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# training\ElectronicsAppLibrary\obj\Debug\net6.0\ref\ElectronicsAppLibrary.dll
+C:\Users\Admin\Desktop\ES\ElectronicsAppLibrary\bin\Debug\net6.0\ElectronicsAppLibrary.deps.json
+C:\Users\Admin\Desktop\ES\ElectronicsAppLibrary\bin\Debug\net6.0\ElectronicsAppLibrary.runtimeconfig.json
+C:\Users\Admin\Desktop\ES\ElectronicsAppLibrary\bin\Debug\net6.0\ElectronicsAppLibrary.dll
+C:\Users\Admin\Desktop\ES\ElectronicsAppLibrary\bin\Debug\net6.0\ElectronicsAppLibrary.pdb
+C:\Users\Admin\Desktop\ES\ElectronicsAppLibrary\obj\Debug\net6.0\ElectronicsAppLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ES\ElectronicsAppLibrary\obj\Debug\net6.0\ElectronicsAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ES\ElectronicsAppLibrary\obj\Debug\net6.0\ElectronicsAppLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ES\ElectronicsAppLibrary\obj\Debug\net6.0\ElectronicsAppLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ES\ElectronicsAppLibrary\obj\Debug\net6.0\ElectronicsAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ES\ElectronicsAppLibrary\obj\Debug\net6.0\ElectronicsAppLibrary.dll
+C:\Users\Admin\Desktop\ES\ElectronicsAppLibrary\obj\Debug\net6.0\refint\ElectronicsAppLibrary.dll
+C:\Users\Admin\Desktop\ES\ElectronicsAppLibrary\obj\Debug\net6.0\ElectronicsAppLibrary.pdb
+C:\Users\Admin\Desktop\ES\ElectronicsAppLibrary\obj\Debug\net6.0\ElectronicsAppLibrary.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ES\ElectronicsAppLibrary\obj\Debug\net6.0\ref\ElectronicsAppLibrary.dll

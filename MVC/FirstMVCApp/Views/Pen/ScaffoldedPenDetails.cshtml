@@ -1,0 +1,47 @@
+﻿@model IEnumerable<FirstMVCApp.Models.Pen>
+
+@{
+    ViewData["Title"] = "Pen Details";
+}
+
+<h1>Pen Details</h1>
+
+<p>
+    <a asp-action="AddNewPen">Add New Pen</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PenId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PenName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PenId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PenName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.ActionLink("Modify Pen", "Edit", new { id = @item.PenId }) |
+                @Html.ActionLink("Know More", "Details", new { id = @item.PenId }) |
+                @Html.ActionLink("Remove Pen", "Delete", new { id = @item.PenId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

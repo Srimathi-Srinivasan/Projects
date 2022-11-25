@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model FirstMVCApp.Models.Pen
+
+<div class="container">
+  <h2>Parker</h2>
+  <div class="card" style="width:400px">
+    <img class="card-img-top" src="~/Images/ParkerPen.jfif" alt="Card image" style="width:100%">
+    <div class="card-body">
+      <h4 class="card-title">@Model.PenName</h4>
+      <p class="card-text">Rs. @Model.Price</p>
+      <a href="~/ParkerPen.html" class="btn btn-primary">See Details</a>
+    </div>
+  </div>
+  <br>
+ </div>
+
+
+
+

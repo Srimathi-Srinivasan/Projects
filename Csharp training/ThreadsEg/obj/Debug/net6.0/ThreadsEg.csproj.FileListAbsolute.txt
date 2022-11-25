@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C# training\ThreadsEg\obj\Debug\net6.0\ThreadsEg.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C# training\ThreadsEg\obj\Debug\net6.0\ThreadsEg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# training\ThreadsEg\obj\Debug\net6.0\ThreadsEg.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# training\ThreadsEg\obj\Debug\net6.0\ThreadsEg.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# training\ThreadsEg\obj\Debug\net6.0\ThreadsEg.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# training\ThreadsEg\bin\Debug\net6.0\ThreadsEg.exe
+C:\Users\Admin\Desktop\C# training\ThreadsEg\bin\Debug\net6.0\ThreadsEg.deps.json
+C:\Users\Admin\Desktop\C# training\ThreadsEg\bin\Debug\net6.0\ThreadsEg.runtimeconfig.json
+C:\Users\Admin\Desktop\C# training\ThreadsEg\bin\Debug\net6.0\ThreadsEg.dll
+C:\Users\Admin\Desktop\C# training\ThreadsEg\bin\Debug\net6.0\ThreadsEg.pdb
+C:\Users\Admin\Desktop\C# training\ThreadsEg\obj\Debug\net6.0\ThreadsEg.dll
+C:\Users\Admin\Desktop\C# training\ThreadsEg\obj\Debug\net6.0\refint\ThreadsEg.dll
+C:\Users\Admin\Desktop\C# training\ThreadsEg\obj\Debug\net6.0\ThreadsEg.pdb
+C:\Users\Admin\Desktop\C# training\ThreadsEg\obj\Debug\net6.0\ThreadsEg.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# training\ThreadsEg\obj\Debug\net6.0\ref\ThreadsEg.dll

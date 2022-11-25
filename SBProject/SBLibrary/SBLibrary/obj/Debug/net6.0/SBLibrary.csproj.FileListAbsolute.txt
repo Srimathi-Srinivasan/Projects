@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\SBProject\SBLibrary\SBLibrary\bin\Debug\net6.0\SBLibrary.deps.json
+C:\Users\Admin\Desktop\SBProject\SBLibrary\SBLibrary\bin\Debug\net6.0\SBLibrary.dll
+C:\Users\Admin\Desktop\SBProject\SBLibrary\SBLibrary\bin\Debug\net6.0\SBLibrary.pdb
+C:\Users\Admin\Desktop\SBProject\SBLibrary\SBLibrary\obj\Debug\net6.0\SBLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SBProject\SBLibrary\SBLibrary\obj\Debug\net6.0\SBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SBProject\SBLibrary\SBLibrary\obj\Debug\net6.0\SBLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SBProject\SBLibrary\SBLibrary\obj\Debug\net6.0\SBLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SBProject\SBLibrary\SBLibrary\obj\Debug\net6.0\SBLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SBProject\SBLibrary\SBLibrary\obj\Debug\net6.0\SBLibrary.dll
+C:\Users\Admin\Desktop\SBProject\SBLibrary\SBLibrary\obj\Debug\net6.0\refint\SBLibrary.dll
+C:\Users\Admin\Desktop\SBProject\SBLibrary\SBLibrary\obj\Debug\net6.0\SBLibrary.pdb
+C:\Users\Admin\Desktop\SBProject\SBLibrary\SBLibrary\obj\Debug\net6.0\ref\SBLibrary.dll

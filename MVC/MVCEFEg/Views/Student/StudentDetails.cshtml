@@ -1,0 +1,53 @@
+﻿@model IEnumerable<MVCEFEg.Models.Student>
+
+@{
+    ViewData["Title"] = "StudentDetails";
+}
+
+<h1>StudentDetails</h1>
+
+<p>
+    <a asp-action="AddStudent">Add New Student</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Sname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.City)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Course)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.City)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Course.Cid)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Regno">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Regno">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Regno">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

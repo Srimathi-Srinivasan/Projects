@@ -1,0 +1,22 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Name"] = "Srimathi";
+    ViewData["marks"] = 100;
+    ViewBag.Name = "Srimathi";
+    ViewBag.marks = 100;
+    
+}
+<h1>Sample Page</h1>
+<h2>Hello!</h2>
+<p>Name: @ViewData["Name"] <br/>
+Marks: @ViewData["marks"]<br />
+Message: @ViewData["message"]
+<hr />
+<hr />
+Name: @ViewBag.Name<br />
+Marks: @ViewBag.marks<br />
+Message: @ViewBag.Message<br />
+</p>
+

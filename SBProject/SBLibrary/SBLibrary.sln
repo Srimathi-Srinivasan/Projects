@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SBLibrary", "SBLibrary\SBLibrary.csproj", "{B2816BEA-871A-4C78-912B-F94DAA815CB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBLibraryTest", "SBLibraryTest\SBLibraryTest.csproj", "{34EDE24D-AA10-4975-809D-2C1B52DD656E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2816BEA-871A-4C78-912B-F94DAA815CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2816BEA-871A-4C78-912B-F94DAA815CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2816BEA-871A-4C78-912B-F94DAA815CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2816BEA-871A-4C78-912B-F94DAA815CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34EDE24D-AA10-4975-809D-2C1B52DD656E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34EDE24D-AA10-4975-809D-2C1B52DD656E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34EDE24D-AA10-4975-809D-2C1B52DD656E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34EDE24D-AA10-4975-809D-2C1B52DD656E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3B86AAD-E886-4A7B-B0EA-C8AACF446E7B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,76 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FirstMVCApp
+build_property.RootNamespace = FirstMVCApp
+build_property.ProjectDir = C:\Users\Admin\Desktop\MVC\FirstMVCApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Admin\Desktop\MVC\FirstMVCApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Admin/Desktop/MVC/FirstMVCApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/MVC/FirstMVCApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/MVC/FirstMVCApp/Views/Home/Sample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/MVC/FirstMVCApp/Views/Pen/AddNewPen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVuXEFkZE5ld1Blbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/MVC/FirstMVCApp/Views/Pen/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVuXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/MVC/FirstMVCApp/Views/Pen/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVuXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/MVC/FirstMVCApp/Views/Pen/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVuXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/MVC/FirstMVCApp/Views/Pen/PenDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVuXFBlbkRldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/MVC/FirstMVCApp/Views/Pen/PenDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVuXFBlbkRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/MVC/FirstMVCApp/Views/Pen/ScaffoldedPenDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVuXFNjYWZmb2xkZWRQZW5EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/MVC/FirstMVCApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/MVC/FirstMVCApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/MVC/FirstMVCApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/MVC/FirstMVCApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/MVC/FirstMVCApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-drzfyyyim3

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\RSM\RailwayManagementLibrary\bin\Debug\net6.0\RailwayManagementLibrary.deps.json
+C:\Users\Admin\Desktop\RSM\RailwayManagementLibrary\bin\Debug\net6.0\RailwayManagementLibrary.runtimeconfig.json
+C:\Users\Admin\Desktop\RSM\RailwayManagementLibrary\bin\Debug\net6.0\RailwayManagementLibrary.dll
+C:\Users\Admin\Desktop\RSM\RailwayManagementLibrary\bin\Debug\net6.0\RailwayManagementLibrary.pdb
+C:\Users\Admin\Desktop\RSM\RailwayManagementLibrary\obj\Debug\net6.0\RailwayManagementLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\RSM\RailwayManagementLibrary\obj\Debug\net6.0\RailwayManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\RSM\RailwayManagementLibrary\obj\Debug\net6.0\RailwayManagementLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\RSM\RailwayManagementLibrary\obj\Debug\net6.0\RailwayManagementLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\RSM\RailwayManagementLibrary\obj\Debug\net6.0\RailwayManagementLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\RSM\RailwayManagementLibrary\obj\Debug\net6.0\RailwayManagementLibrary.dll
+C:\Users\Admin\Desktop\RSM\RailwayManagementLibrary\obj\Debug\net6.0\refint\RailwayManagementLibrary.dll
+C:\Users\Admin\Desktop\RSM\RailwayManagementLibrary\obj\Debug\net6.0\RailwayManagementLibrary.pdb
+C:\Users\Admin\Desktop\RSM\RailwayManagementLibrary\obj\Debug\net6.0\RailwayManagementLibrary.genruntimeconfig.cache
+C:\Users\Admin\Desktop\RSM\RailwayManagementLibrary\obj\Debug\net6.0\ref\RailwayManagementLibrary.dll

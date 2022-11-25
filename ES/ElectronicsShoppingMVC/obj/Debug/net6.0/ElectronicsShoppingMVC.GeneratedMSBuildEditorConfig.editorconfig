@@ -1,0 +1,96 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ElectronicsShoppingMVC
+build_property.RootNamespace = ElectronicsShoppingMVC
+build_property.ProjectDir = C:\Users\Admin\Desktop\ES\ElectronicsShoppingMVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Admin\Desktop\ES\ElectronicsShoppingMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/Audio/AudioDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaW9cQXVkaW9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/Audio/Earpods.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaW9cRWFycG9kcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/Audio/Neckbands.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaW9cTmVja2JhbmRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/Audio/Speakers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaW9cU3BlYWtlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/Audio/WiredEarphones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaW9cV2lyZWRFYXJwaG9uZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/Login/MobileNumLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTW9iaWxlTnVtTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/Login/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cU2lnbnVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/Shared/LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExvZ2luUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/Television/AndroidTV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZXZpc2lvblxBbmRyb2lkVFYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/Television/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZXZpc2lvblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/Television/SmartTV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZXZpc2lvblxTbWFydFRWLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/Television/SpecificTV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZXZpc2lvblxTcGVjaWZpY1RWLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/ES/ElectronicsShoppingMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gg2c9qjngc

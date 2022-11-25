@@ -1,0 +1,29 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+@inject IHttpContextAccessor HttpContextAccessor
+
+<ul class="navbar-nav">
+@{
+    ViewBag.userName = HttpContextAccessor.HttpContext.Session.GetString("Username");
+ }
+@if (ViewBag.Username != null)
+{
+    <li class="nav-item">
+        <a  class="nav-link text-dark" asp-controller="Home" asp-action="Index" title="Manage">Hello @ViewBag.Username</a>
+    </li>
+    <li class="nav-item">
+        <form  class="form-inline" asp-controller="Login" asp-action="logout"  asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+            <button  type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+        </form>
+    </li>
+}
+else
+{
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-controller="Login" asp-action="register">Register</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-controller="Login" asp-action="login">Login</a>
+    </li>
+}
+</ul>

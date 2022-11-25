@@ -1,0 +1,41 @@
+﻿using FirstMVCApp.Models;
+using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
+
+namespace FirstMVCApp.Controllers
+{
+    public class HomeController : Controller
+    {
+        private readonly ILogger<HomeController> _logger;
+
+        public HomeController(ILogger<HomeController> logger)
+        {
+            _logger = logger;
+        }
+
+        public IActionResult Index()
+        {
+            ViewData["Name"] = "Srimathi";
+            return View();
+        }
+        public IActionResult Sample()
+        {
+            ViewData["message"] = "hello";
+            ViewBag.message = "hello";
+            return View();
+        }
+
+        public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        
+
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult Error()
+        {
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+    }
+}
